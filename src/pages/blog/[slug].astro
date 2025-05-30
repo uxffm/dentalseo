@@ -1,0 +1,103 @@
+---
+import { getEntryBySlug, getCollection } from 'astro:content';
+import Header from '../../components/Header.tsx';
+import Footer from '../../components/Footer.tsx';
+import { Button } from '@/components/ui/button';
+import { Badge } from '@/components/ui/badge';
+import { Calendar, ArrowLeft } from 'lucide-react';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('blog');
+  return posts.map(post => ({ params: { slug: post.slug } }));
+}
+
+const { slug } = Astro.params;
+const post = await getEntryBySlug('blog', slug);
+if (!post) throw new Error(`Post not found: ${slug}`);
+
+const { Content } = await post.render();
+---
+
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <title></title>
+    <meta name="description" content="Spezialisierte SEO-Dienstleistungen für Zahnarztpraxen." />
+     
+</head>
+
+<Header client:load />
+
+<main class="min-h-screen flex flex-col pt-24 md:pt-32 pb-16">
+  <div class="max-w-3xl mx-auto px-4">
+    <a href="/blog">
+      <Button variant="ghost" class="pl-0 mb-6 text-gray-600 hover:text-dental-600">
+        <ArrowLeft class="mr-2 h-4 w-4" />
+        Zurück zu den Artikeln
+      </Button>
+    </a>
+
+    <h1 class="text-3xl md:text-4xl font-bold text-gray-800 mb-4">
+      {post.data.title}
+    </h1>
+
+    {post.data.categories && (
+      <div class="flex flex-wrap gap-2 mb-4">
+        {post.data.categories.map((c) => (
+          <Badge variant="secondary">{c}</Badge>
+        ))}
+      </div>
+    )}
+
+    <div class="flex items-center text-sm text-gray-600 mb-8">
+      {post.data.author && (
+        <span class="font-medium mr-4">{post.data.author}</span>
+      )}
+      {post.data.date && (
+        <div class="flex items-center">
+          <Calendar class="h-4 w-4 mr-1 text-dental-500" />
+          {post.data.date}
+        </div>
+      )}
+    </div>
+
+    {post.data.img && (
+      <div class="rounded-lg overflow-hidden mb-10">
+        <img
+          src={post.data.img}
+          alt={post.data.title}
+          class="w-full h-auto object-cover"
+        />
+      </div>
+    )}
+
+    <div class="prose prose-lg overflow-x-auto break-words prose-headings:text-gray-800 prose-p:text-gray-600 prose-a:text-dental-600 prose-a:no-underline hover:prose-a:underline">
+      <Content />
+    </div>
+
+    <div class="border-t border-gray-200 mt-12 pt-8">
+      <h3 class="text-lg font-semibold mb-4">Share this article</h3>
+      <div class="flex space-x-4">
+        <Button variant="outline" size="sm">Twitter</Button>
+        <Button variant="outline" size="sm">LinkedIn</Button>
+        <Button variant="outline" size="sm">Facebook</Button>
+      </div>
+    </div>
+
+    <br><br> 
+
+    <div class="mt-12 bg-dental-50 p-8 rounded-lg text-center">
+      <h2 class="text-xl font-bold text-gray-800 mb-2">
+        Want to improve your dental practice’s SEO?
+      </h2>
+      <p class="text-gray-600 mb-6">
+        Get a free SEO audit and discover how we can help you attract more patients.
+      </p>
+      <Button class="bg-dental-500 hover:bg-dental-600">
+        Get Your Free SEO Audit
+      </Button>
+    </div>
+  </div>
+</main>
+
+<Footer client:load />
