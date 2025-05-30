@@ -4,7 +4,6 @@ import tailwind from '@astrojs/tailwind';
 import path from 'path';
 
 export default defineConfig({
-    base: '/dentalseo/',
   integrations: [
     react(),
     tailwind(),     // wires up Tailwind automatically
