@@ -1,0 +1,30 @@
+---
+import { Hero } from '../components/Hero.tsx'
+import { Features } from '../components/Features.tsx'
+import { CourseContent } from '../components/CourseContent.tsx'
+import { Pricing } from '../components/Pricing.tsx'
+import { Testimonials } from '../components/Testimonials.tsx'
+import { Footer } from '../components/Footer.tsx'
+import '../styles/index.css';
+
+
+---
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Blog</title>
+  </head>
+  <body>
+
+    <Hero client:load />
+
+    <Features client:load />
+    <CourseContent client:load />
+    <Pricing client:load />
+    <Testimonials client:load />
+
+
+    <Footer client:load />
+  </body>
+</html>
