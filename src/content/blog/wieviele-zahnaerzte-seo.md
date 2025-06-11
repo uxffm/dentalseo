@@ -4,15 +4,15 @@ description: "Du fragst dich, wie viele Zahnärzte in deiner Stadt eigentlich SE
 img: "/wieviele-zahnaerzte-machen-seo.png"
 ---
 
-Du fragst dich, wie viele Zahnärzte in deiner Stadt eigentlich SEO machen? Also wirklich aktiv ihre Website für Google optimieren? Die Antwort: Weniger, als du denkst. Viele haben zwar eine Website, aber die bleibt oft ohne Strategie. Kein Plan für Google-Rankings, keine Keywords, keine Inhalte, die was bringen. Und genau da liegt die Chance. Wer SEO macht, fällt auf. Wer es richtig macht, gewinnt. Mehr Sichtbarkeit. Mehr Patienten. Ganz einfach.
+Du fragst dich, wie viele Zahnärzte in deiner Stadt eigentlich SEO machen? Also wirklich aktiv ihre Website für Google optimieren? Die Antwort: Weniger, als du denkst. Viele haben zwar eine Website, aber die bleibt oft ohne Strategie. Kein Plan für Google-Rankings, keine Keywords, keine Inhalte, die was bringen. Und genau da liegt die Chance. Wer SEO macht, fällt auf. Wer es richtig macht, gewinnt. Mehr Sichtbarkeit. Mehr Patienten.
 
 ## Wieviele Zahnärzte betreiben SEO?
 
 Ich hab damit angefangen, weil ich selber im SEO arbeite – speziell für Zahnärzte. Irgendwann hab ich mich gefragt, machen das eigentlich viele Zahnärzte? Also SEO? Oder sind die da eher noch nicht so weit?
 
-Dann hab ich bei mir in der Stadt einfach mal losgelegt. Mittelgroße Stadt, nichts Riesiges. Ich hab ungefähr 25 Zahnärzte direkt gefragt. Ganz ehrlich, direkt raus: "Macht ihr SEO? Tut ihr was in die Richtung?"
+Dann hab ich bei mir in der Stadt einfach mal losgelegt. Mittelgroße Stadt, nichts Riesiges. Ich hab ungefähr 25 Zahnärzte direkt gefragt. Leicht war das nicht. Manche haben schon ganz schön verdutzt geguckt. "Macht ihr SEO? Tut ihr was in die Richtung?". Fragen kostet ja nichts, hab ich mir gedacht.
 
-So hat das alles angefangen. Ganz locker, ganz direkt. Ich wollte wissen, wo die stehen.
+So hat das alles angefangen. 
 
 ## Schockierende Ergebnisse
 

@@ -67,7 +67,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <h4 className="text-lg font-semibold text-gray-900">Telefon</h4>
-                  <p className="text-gray-600">(555) 123-4567</p>
+                  <p className="text-gray-600">Jetzt kontaktieren</p>
                 </div>
               </div>
 
@@ -79,7 +79,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <h4 className="text-lg font-semibold text-gray-900">E-Mail</h4>
-                  <p className="text-gray-600">info@dentalrankseo.com</p>
+                  <p className="text-gray-600">Mehr Patienten für die Praxis.</p>
                 </div>
               </div>
 
@@ -92,7 +92,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <h4 className="text-lg font-semibold text-gray-900">Adresse</h4>
-                  <p className="text-gray-600">123 Market Street, Suite 456<br/>San Francisco, CA 94105</p>
+                  <p className="text-gray-600">Frankfurt am Main</p>
                 </div>
               </div>
             </div>
@@ -143,7 +143,7 @@ const Contact = () => {
                       name="phone"
                       value={formData.phone}
                       onChange={handleChange}
-                      placeholder="(555) 123-4567"
+                      placeholder="1234567"
                       required
                     />
                   </div>
