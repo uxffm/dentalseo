@@ -5,6 +5,7 @@ import Footer from '../../components/Footer.tsx';
 import { Button } from '@/components/ui/button';
 import { Badge } from '@/components/ui/badge';
 import { Calendar, ArrowLeft } from 'lucide-react';
+import "../../styles/global.css"
 
 export async function getStaticPaths() {
   const posts = await getCollection('blog');
