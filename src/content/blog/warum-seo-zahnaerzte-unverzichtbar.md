@@ -4,7 +4,9 @@ description: "Warum ist Suchmaschinenoptimierung (SEO) gerade für Zahnarztpraxe
 pubDate: "2025-06-11"
 slug: "warum-seo-zahnaerzte-unverzichtbar"
 tags: ['SEO', 'Zahnärzte', 'Online-Marketing']
+img: "/seo-zahnaerzte-unverzichtbar.png"
 ---
+
 
 Heutzutage suchen immer mehr Menschen online nach einem passenden Zahnarzt – die digitale
 Präsenz deiner Praxis wird damit zum entscheidenden Erfolgsfaktor. SEO
