@@ -54,15 +54,15 @@ const Footer = () => {
             <ul className="space-y-2">
               <li className="flex items-start">
                 {/* Phone icon */}
-                <span>(555) 123-4567</span>
+                <span>SEO für Zahnärzte</span>
               </li>
               <li className="flex items-start">
                 {/* Email icon */}
-                <span>info@dentalrankseo.com</span>
+                <span>Mehr Sichtbarkeit für Ihre Praxis</span>
               </li>
               <li className="flex items-start">
                 {/* Location icon */}
-                <span>123 Market Street, Suite 456<br/>San Francisco, CA 94105</span>
+                <span>Frankfurt am Main</span>
               </li>
             </ul>
           </div>
