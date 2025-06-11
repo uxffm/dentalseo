@@ -27,6 +27,7 @@ const posts = await getCollection('blog')
       <article class="flex flex-col bg-white rounded-2xl shadow-md overflow-hidden transition-transform hover:-translate-y-1 hover:shadow-lg">
         <a href={`/blog/${post.slug}`} class="flex flex-col h-full">
           <img 
+            class="blog_img"
             src={post.data.img} 
             alt={post.data.title} 
             class="w-full h-48 object-cover"
@@ -49,6 +50,10 @@ const posts = await getCollection('blog')
 
 
 <style>
+
+  .blog_img {
+    height: 230px;
+  }
 
   #blog_posts {
     width: 1050px;
