@@ -4,6 +4,7 @@ description: "Auch 2025 gibt es typische SEO-Fehler, die viele Zahnarztpraxen be
 pubDate: "2025-06-11"
 slug: "seo-fehler"
 tags: ['SEO', 'Zahnärzte', 'Online-Marketing']
+img: "/seo-fehler.png"
 ---
 
 Niemand ist perfekt – das gilt auch für die Website deiner Zahnarztpraxis. Doch manche SEO-Fehler sieht man bei Zahnarztpraxen immer wieder. Diese Patzer sorgen dafür, dass du bei Google schlechter gefunden wirst, als du könntest. Die gute Nachricht: Wenn du die folgenden fünf Fehler kennst, kannst du sie leicht vermeiden und deiner Online-Sichtbarkeit einen echten Schub geben. Schau einmal kritisch, ob dir einer dieser Punkte bekannt vorkommt:
