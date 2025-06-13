@@ -10,19 +10,19 @@ import { motion } from "framer-motion";
 
 const testimonials = [
   {
-   
+    name: "",
     practice: "Zahnarzt",
     location: "Frankfurt, Hessen",
     image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80",
-    quote: "Die Zusammenarbeit mit DentalRank war transformierend für unsere Praxis. Sie verstehen die Dentalbranche wirklich und haben uns geholfen, neue Patienten zu erreichen, die wir vorher nicht gewinnen konnten. Unser Terminbuch ist jetzt konstant voll – dank ihrer SEO-Expertise.",
+    quote: "Die Zusammenarbeit mit SEO für Zahnärzte war transformierend für unsere Praxis. Sie verstehen die Dentalbranche wirklich und haben uns geholfen, neue Patienten zu erreichen, die wir vorher nicht gewinnen konnten. Unser Terminbuch ist jetzt konstant voll – dank ihrer SEO-Expertise.",
     rating: 5
   },
   {
-    
+    name: "",
     practice: "Zahnarzt",
     location: "Frankfurt, Hessen",
     image: "https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80",
-    quote: "Ich habe mit mehreren Marketingfirmen gearbeitet, bevor ich DentalRank gefunden habe. Der Unterschied ist enorm. Ihr zahnmedizinisches SEO-Wissen hat uns geholfen, genau die Patienten anzusprechen, die wir gewinnen wollten. Der ROI ist beeindruckend.",
+    quote: "Ich habe mit mehreren Marketingfirmen gearbeitet, bevor ich SEO für Zahnärzte gefunden habe. Der Unterschied ist enorm. Ihr zahnmedizinisches SEO-Wissen hat uns geholfen, genau die Patienten anzusprechen, die wir gewinnen wollten. Der ROI ist beeindruckend.",
     rating: 5
   }
 ];
