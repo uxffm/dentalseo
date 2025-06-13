@@ -10,7 +10,7 @@ import { motion } from "framer-motion";
 
 const testimonials = [
   {
-    name: "Dr. Rossmann",
+   
     practice: "Zahnarzt",
     location: "Frankfurt, Hessen",
     image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80",
@@ -18,7 +18,7 @@ const testimonials = [
     rating: 5
   },
   {
-    name: "Dr. Rosznowski",
+    
     practice: "Zahnarzt",
     location: "Frankfurt, Hessen",
     image: "https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80",
