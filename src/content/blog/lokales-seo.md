@@ -7,7 +7,7 @@ tags: ['SEO', 'Zahnärzte', 'Online-Marketing', 'Lokales SEO']
 img: "/lokales-seo-fuer-zahnaerzte.png"
 ---
 
-Als lokale Zahnarztpraxis möchtest du vor allem in deiner Stadt und Umgebung gut gefunden werden. Genau hier setzt lokales SEO an: Es umfasst alle Maßnahmen, die dafür sorgen, dass deine Praxis in den lokalen Suchergebnissen (inklusive Google Maps) oben erscheint. Denn was nützt es dir, wenn jemand in Hamburg deine Seite findet, du aber in München behandelst? Richtig – gar nichts. Im Folgenden zeigen wir dir Schritt für Schritt, wie du dein lokales SEO optimierst, damit Patienten in deiner Stadt dich schnell entdecken.
+Als lokale Zahnarztpraxis möchtest du vor allem in deiner Stadt und Umgebung gut gefunden werden. Genau hier setzt <a href="/">lokales SEO für Zahnärzte</a> an: Es umfasst alle Maßnahmen, die dafür sorgen, dass deine Praxis in den lokalen Suchergebnissen (inklusive Google Maps) oben erscheint. Denn was nützt es dir, wenn jemand in Hamburg deine Seite findet, du aber in München behandelst? Richtig – gar nichts. Im Folgenden zeigen wir dir Schritt für Schritt, wie du dein lokales SEO optimierst, damit Patienten in deiner Stadt dich schnell entdecken.
 
 ## Google-Unternehmensprofil optimal nutzen
 
