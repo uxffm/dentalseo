@@ -9,7 +9,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8 mb-8">
           <div>
             <Link to="/" className="inline-block mb-4">
-              <span className="text-2xl font-bold text-white">Dental<span className="text-dental-400">Rank</span></span>
+              <span className="text-2xl font-bold text-white">SEO für<span className="text-dental-400">Zahnärzte</span></span>
             </Link>
             <p className="mb-4">
               Spezialisierte SEO-Dienstleistungen ausschließlich für Zahnarztpraxen. Wir helfen Zahnärzten, mehr Patienten zu gewinnen und ihre Praxis zu vergrößern.
