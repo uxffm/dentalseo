@@ -10,35 +10,19 @@ import { motion } from "framer-motion";
 
 const testimonials = [
   {
-    name: "Dr. Sarah Johnson",
-    practice: "Johnson Family Dental",
-    location: "Portland, OR",
+    name: "Dr. Rossmann",
+    practice: "Zahnarzt",
+    location: "Frankfurt, Hessen",
     image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80",
     quote: "Die Zusammenarbeit mit DentalRank war transformierend für unsere Praxis. Sie verstehen die Dentalbranche wirklich und haben uns geholfen, neue Patienten zu erreichen, die wir vorher nicht gewinnen konnten. Unser Terminbuch ist jetzt konstant voll – dank ihrer SEO-Expertise.",
     rating: 5
   },
   {
-    name: "Dr. Michael Chen",
-    practice: "Parkview Dental Associates",
-    location: "Boston, MA",
+    name: "Dr. Rosznowski",
+    practice: "Zahnarzt",
+    location: "Frankfurt, Hessen",
     image: "https://images.unsplash.com/photo-1560250097-0b93528c311a?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80",
     quote: "Ich habe mit mehreren Marketingfirmen gearbeitet, bevor ich DentalRank gefunden habe. Der Unterschied ist enorm. Ihr zahnmedizinisches SEO-Wissen hat uns geholfen, genau die Patienten anzusprechen, die wir gewinnen wollten. Der ROI ist beeindruckend.",
-    rating: 5
-  },
-  {
-    name: "Dr. Jennifer Martinez",
-    practice: "Smile Solutions",
-    location: "Miami, FL",
-    image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80",
-    quote: "Als neue Praxis mussten wir schnell Patienten gewinnen. Die Strategien von DentalRank haben uns geholfen, mit etablierten Praxen zu konkurrieren. Ihr Team ist reaktionsschnell, kompetent und zielorientiert.",
-    rating: 5
-  },
-  {
-    name: "Dr. Robert Wilson",
-    practice: "Premier Dental Care",
-    location: "Atlanta, GA",
-    image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80",
-    quote: "Seit der Zusammenarbeit mit DentalRank haben wir einen Anstieg von 200 % bei neuen Patientenanrufen verzeichnet. Ihr Verständnis dafür, wie Patienten online nach zahnmedizinischen Leistungen suchen, verschafft uns einen echten Wettbewerbsvorteil.",
     rating: 5
   }
 ];
