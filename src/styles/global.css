@@ -93,3 +93,9 @@
     padding: 22px 0;
     font-weight: bold;
   }
+
+
+ #blog_content a {
+    text-decoration: underline;
+    color: #0284c7;
+  }

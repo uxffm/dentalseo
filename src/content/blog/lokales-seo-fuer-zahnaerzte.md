@@ -7,12 +7,14 @@ tags: ['SEO', 'Zahnärzte', 'Online-Marketing', 'Lokales SEO']
 img: "/lokales-seo-fuer-zahnaerzte.png"
 ---
 
-Als lokale Zahnarztpraxis möchtest du vor allem in deiner Stadt und Umgebung gut gefunden werden. Genau hier setzt <a href="/">lokales SEO für Zahnärzte</a> an: Es umfasst alle Maßnahmen, die dafür sorgen, dass deine Praxis in den lokalen Suchergebnissen (inklusive Google Maps) oben erscheint. Denn was nützt es dir, wenn jemand in Hamburg deine Seite findet, du aber in München behandelst? Richtig – gar nichts. Im Folgenden zeigen wir dir Schritt für Schritt, wie du dein lokales SEO optimierst, damit Patienten in deiner Stadt dich schnell entdecken.
+Als lokale Zahnarztpraxis möchtest du vor allem in deiner Stadt und Umgebung gut gefunden werden. Genau hier setzt lokales SEO für Zahnärzte an: Es umfasst alle Maßnahmen, die dafür sorgen, dass deine Praxis in den lokalen Suchergebnissen (inklusive Google Maps) oben erscheint. Denn was nützt es dir, wenn jemand in Hamburg deine Seite findet, du aber in München behandelst? Richtig – gar nichts. Im Folgenden zeigen wir dir Schritt für Schritt, wie du dein lokales SEO optimierst, damit Patienten in deiner Stadt dich schnell entdecken.
 
 ## Google-Unternehmensprofil optimal nutzen
 
 Der erste und vielleicht wichtigste Schritt für lokales SEO ist ein gepflegtes Google- Unternehmensprofil (früher Google My Business). Dieser branchenverzeichnishafte Eintrag erscheint, wenn Nutzer nach deinem Praxisnamen suchen oder allgemein "Zahnarzt [Stadt]" googeln. Achte darauf, alle Informationen vollständig einzutragen: Adresse, Telefonnummer, Öffnungszeiten, Website, Leistungen und kurze Beschreibung deiner Praxis. Lade aussagekräftige Fotos hoch (Team, Praxisräume, Logo) – so bekommen Suchende gleich einen guten Eindruck.
-Wichtig: Halte dein Profil immer aktuell. Änderungen bei Sprechzeiten, neue Leistungen oder Urlaubszeiten solltest du zeitnah einpflegen. Ein aktives Unternehmensprofil wird von Google belohnt und steigert die Chance, in der Kartenansicht weit oben zu erscheinen 17 18 . Außerdem können Patienten über dein Profil direkt Bewertungen abgeben – dazu gleich mehr. Kurz gesagt: Dein Google- Profil ist deine digitale Visitenkarte, ohne die du lokal kaum sichtbar sein wirst.
+Wichtig: Halte dein Profil immer aktuell. Änderungen bei Sprechzeiten, neue Leistungen oder Urlaubszeiten solltest du zeitnah einpflegen. Ein aktives Unternehmensprofil wird von Google belohnt und steigert die Chance, in der Kartenansicht weit oben zu erscheinen. Außerdem können Patienten über dein Profil direkt <a href="/blog/google-bewertungen">Bewertungen abgeben</a> – dazu gleich mehr. Kurz gesagt: Dein Google- Profil ist deine digitale Visitenkarte, ohne die du lokal kaum sichtbar sein wirst.
+
+
 
 ## Lokale Keywords auf der Webseite einbinden
 

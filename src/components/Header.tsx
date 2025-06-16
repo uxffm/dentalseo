@@ -43,10 +43,10 @@ const Header = () => {
               Case Studies
             </a>
             <a href="#testimonials" className="text-gray-700 hover:text-dental-600 font-medium">
-              Testimonials
+              Bewertungen
             </a>
             <a href="#contact" className="text-gray-700 hover:text-dental-600 font-medium">
-              Contact
+              Kontakt
             </a>
             <Button className="bg-dental-500 hover:bg-dental-600">
               Free SEO Audit

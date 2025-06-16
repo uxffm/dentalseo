@@ -2,7 +2,7 @@
 title: "OnPage-SEO für Zahnärzte: So optimierst du deine Webseite richtig"
 description: "Deine Website ist das Herzstück deines Online-Marketings. Hier erfährst du, wie du mit OnPage-SEO deine Zahnarzt-Website für Google und Patienten optimierst – von Überschriften und Keywords über Ladezeiten bis zur mobilen Nutzung. Eine Schritt-für-Schritt-Anleitung für bessere Rankings und Nutzererlebnisse."
 pubDate: "2025-06-11"
-slug: "onpage-seo-fuer-zahnaerzte-so-optimierst-du-deine-webseite-richtig"
+slug: "on-page-seo-fuer-zahnaerzte"
 tags: ['SEO', 'Zahnärzte', 'Online-Marketing', 'Website-Optimierung']
 img: "/on-page-seo-zahnaerzte.png"
 ---
