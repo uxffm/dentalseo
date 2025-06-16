@@ -17,6 +17,7 @@ const post = await getEntryBySlug('blog', slug);
 if (!post) throw new Error(`Post not found: ${slug}`);
 
 const { Content } = await post.render();
+
 ---
 
 <html lang="de">
@@ -58,7 +59,7 @@ const { Content } = await post.render();
       {post.data.date && (
         <div class="flex items-center">
           <Calendar class="h-4 w-4 mr-1 text-dental-500" />
-          {post.data.date}
+            {post.data.pubDate}
         </div>
       )}
     </div>
