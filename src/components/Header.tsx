@@ -36,20 +36,20 @@ const Header = () => {
             <a href="/blog" className="text-gray-700 hover:text-dental-600 font-medium">
               Blog
             </a>
-            <a href="#services" className="text-gray-700 hover:text-dental-600 font-medium">
+            <a href="/#services" className="text-gray-700 hover:text-dental-600 font-medium">
               Services
             </a>
-            <a href="#case-studies" className="text-gray-700 hover:text-dental-600 font-medium">
+            <a href="/#case-studies" className="text-gray-700 hover:text-dental-600 font-medium">
               Case Studies
             </a>
-            <a href="#testimonials" className="text-gray-700 hover:text-dental-600 font-medium">
+            <a href="/#testimonials" className="text-gray-700 hover:text-dental-600 font-medium">
               Bewertungen
             </a>
-            <a href="#contact" className="text-gray-700 hover:text-dental-600 font-medium">
+            <a href="/#contact" className="text-gray-700 hover:text-dental-600 font-medium">
               Kontakt
             </a>
             <Button className="bg-dental-500 hover:bg-dental-600">
-              Free SEO Audit
+              Kostenloses SEO Audit
             </Button>
           </nav>
           
