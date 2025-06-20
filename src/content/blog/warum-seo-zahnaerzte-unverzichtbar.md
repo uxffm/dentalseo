@@ -15,6 +15,9 @@ wenn potenzielle Patienten nach Zahnärzten in deiner Region suchen. Tatsächlic
 der Patienten, die online nach einem Zahnarzt suchen, in den letzten Jahren verdoppelt . Das
 bedeutet: Ohne gutes SEO verschenkst du enormes Potenzial. 
 
+Damit du nicht in die üblichen Fehler tappst, lies auch unseren Beitrag [SEO-Fehler, die Zahnarztpraxen immer noch machen](/blog/seo-fehler).
+
+
 ## Neue Patienten durch bessere Sichtbarkeit
 
 Mit einer starken SEO-Strategie wirst du online leichter gefunden und gewinnst mehr Neupatienten.
@@ -34,19 +37,14 @@ auf – noch bevor sie deine Praxis betreten.
 
 ## Wettbewerbsvorteil in deiner Stadt
 
-Besonders lokales SEO ist für Zahnärzte entscheidend. Die meisten Patienten suchen einen Zahnarzt in
-ihrer Nähe. Mit gezielter lokaler Optimierung – etwa durch Keywords wie "Zahnarzt in [Stadt]" – kannst
+Besonders [lokale SEO](/blog/lokales-seo-fuer-zahnaerzte) ist für Zahnärzte entscheidend. Die meisten Patienten suchen einen Zahnarzt in ihrer Nähe. Mit gezielter lokaler Optimierung – etwa durch Keywords wie "Zahnarzt in [Stadt]" – kannst
 du es schaffen, in deiner Stadt ganz oben zu stehen . Eine prominent platzierte Praxis in den lokalen
 Suchergebnissen oder Google Maps hat einen klaren Vorteil gegenüber der Konkurrenz um die Ecke.
 Deine Praxis wird sichtbarer für Menschen aus deiner Region, die akut eine Behandlung suchen. Das
 kann den Unterschied ausmachen zwischen einer florierenden Praxis und einer, die kaum neue
 Anfragen erhält .
 Vergiss nicht dein Google-Unternehmensprofil (Google My Business): Dieses kostenlose Profil
-erscheint bei lokalen Suchen und zeigt wichtige Infos wie Adresse, Öffnungszeiten und Bewertungen
-
-an. Wenn du es vollständig ausfüllst und aktuell hältst, erhöht das deine Chancen, in der lokalen Suche
-bevorzugt angezeigt zu werden . Zusammen mit positiven Google-Bewertungen (dazu später mehr)
-kannst du so deine lokale Dominanz weiter ausbauen. 
+erscheint bei lokalen Suchen und zeigt wichtige Infos wie Adresse, Öffnungszeiten und Bewertungen an. Wenn du es vollständig ausfüllst und aktuell hältst, erhöht das deine Chancen, in der lokalen Suche bevorzugt angezeigt zu werden . Zusammen mit positiven Google-Bewertungen (dazu später mehr) kannst du so deine lokale Dominanz weiter ausbauen. 
 
 ## Kosteneffiziente Werbung statt Streuverlusten
 

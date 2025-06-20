@@ -23,7 +23,10 @@ Viele Zahnarzt-Websites sind sehr dünn, was Inhalte angeht: Eine Startseite mit
 
 ## Langsame, nicht mobil-optimierte Website
 
-Du hast es sicher selbst schon erlebt: Man klickt auf eine Website und wartet... und wartet. Nichts schreckt Besucher (und Google) so sehr ab wie eine langsame Webseite. Ebenso schlimm: Wenn die Seite auf dem Handy unübersichtlich ist oder Teile abgeschnitten sind. Leider achten viele Praxen nicht auf Technik und Performance ihrer Seite. Dabei ist Seitenladezeit ein Ranking-Faktor – Google belohnt schnelle, mobilfreundliche Seiten. Prüfe also deine Website: Laden die Seiten flott (ideal unter 3 Sekunden)? Sind die Bilder komprimiert? Funktioniert die Darstellung auf Smartphones und Tablets? Eine moderne Praxis-Website muss mobil optimiert sein, da ein großer Teil der Patienten über Handy sucht 14 . Falls hier Nachholbedarf besteht, kümmere dich zuerst um die technischen Basics: responsives Design, schnelle Server und aufgeräumter Code. Patienten werden es dir danken – und Google auch.
+Du hast es sicher selbst schon erlebt: Man klickt auf eine Website und wartet... und wartet. Nichts schreckt Besucher (und Google) so sehr ab wie eine langsame Webseite. Ebenso schlimm: Wenn die Seite auf dem Handy unübersichtlich ist oder Teile abgeschnitten sind. Leider achten viele Praxen nicht auf Technik und Performance ihrer Seite. Dabei ist Seitenladezeit ein Ranking-Faktor – Google belohnt schnelle, mobilfreundliche Seiten. Prüfe also deine Website: Laden die Seiten flott (ideal unter 3 Sekunden)? Sind die Bilder komprimiert? Funktioniert die Darstellung auf Smartphones und Tablets? Eine moderne Praxis-Website muss mobil optimiert sein, da ein großer Teil der Patienten über Handy sucht. Falls hier Nachholbedarf besteht, kümmere dich zuerst um die technischen Basics: responsives Design, schnelle Server und aufgeräumter Code. Patienten werden es dir danken – und Google auch.
+
+Tipps zur OnPage-Optimierung findest du in unserem Beitrag [OnPage-SEO für Zahnärzte: So optimierst du deine Webseite richtig](/blog/onpage-seo-fuer-zahnaerzte-so-optimierst-du-deine-webseite-richtig).
+
 
 
 ## Bewertungen ignorieren oder stiefmütterlich behandeln
