@@ -7,7 +7,7 @@ tags: ['SEO', 'Zahnärzte', 'Online-Marketing', 'Bewertungen']
 img: "/google-bewertungen.png"
 ---
 
-Schauen wir der Wahrheit ins Auge: Google-Bewertungen sind für Zahnarztpraxen Gold wert. Sie entscheiden oft darüber, ob ein potenzieller Patient deine Website anklickt – oder lieber zum Konkurrenten mit den vielen 5-Sterne-Bewertungen geht. Aber wusstest du, dass Bewertungen nicht nur fürs Image, sondern auch für dein Google-Ranking wichtig sind? In diesem Beitrag beleuchten wir, wie Google-Rezensionen deine Praxis nach vorne bringen können und geben Tipps, wie du an mehr (gute) Bewertungen kommst.
+Schauen wir der Wahrheit ins Auge: Google-Bewertungen sind für Zahnarztpraxen Gold wert. Sie entscheiden oft darüber, ob ein potenzieller Patient deine Website anklickt – oder lieber zum Konkurrenten mit den vielen 5-Sterne-Bewertungen geht. Aber wusstest du, dass Bewertungen nicht nur fürs Image, sondern auch für dein Google-Ranking wichtig sind? In diesem Beitrag beleuchten <a href="/">wir</a>, wie Google-Rezensionen deine Praxis nach vorne bringen können und geben Tipps, wie du an mehr (gute) Bewertungen kommst.
 
 ## Vertrauen gewinnen durch Sterne und Texte
 
