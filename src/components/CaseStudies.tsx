@@ -12,7 +12,7 @@ const caseStudies = [
       { label: "Neue Patienten-Termine", value: "147%" },
       { label: "Keywords in den Top 10", value: "89" },
     ],
-    testimonial: "DentalRank hat unsere Online-Präsenz komplett verändert. Wir sind jetzt die bestplatzierte Zahnarztpraxis in unserer Region für die wichtigsten Keywords."
+    testimonial: "SEO für Zahnärzte hat unsere Online-Präsenz komplett verändert. Wir sind jetzt die bestplatzierte Zahnarztpraxis in unserer Region für die wichtigsten Keywords."
   },
   {
     name: "Bright Family Dental",
@@ -24,7 +24,7 @@ const caseStudies = [
       { label: "Zunahme an Anrufen", value: "92%" },
       { label: "Return on Investment", value: "5.3x" },
     ],
-    testimonial: "Die Zusammenarbeit mit DentalRank war großartig. Sie kennen die Dentalbranche und haben für unsere Praxis erstaunliche Ergebnisse erzielt."
+    testimonial: "Die Zusammenarbeit mit SEO für Zahnärzte war großartig. Sie kennen die Dentalbranche und haben für unsere Praxis erstaunliche Ergebnisse erzielt."
   },
   {
     name: "Clear Path Orthodontics",
@@ -36,7 +36,7 @@ const caseStudies = [
       { label: "Anstieg der Beratungsgespräche", value: "104%" },
       { label: "Umsatzsteigerung", value: "83%" },
     ],
-    testimonial: "Das spezialisierte Wissen von DentalRank über Kieferorthopädie hat den Unterschied gemacht. Unsere Online-Buchungen haben sich verdoppelt."
+    testimonial: "Das spezialisierte Wissen von SEO für Zahnärzte über Kieferorthopädie hat den Unterschied gemacht. Unsere Online-Buchungen haben sich verdoppelt."
   }
 ];
 

@@ -65,7 +65,9 @@ const Services = () => {
             transition={{ duration: 0.5, delay: 0.2 }}
             viewport={{ once: true, margin: "-100px" }}
           >
-            Unsere SEO-Strategien sind speziell auf die Bedürfnisse und Herausforderungen von Zahnarztpraxen abgestimmt.
+            Unsere SEO-Strategien sind speziell auf die Bedürfnisse und Herausforderungen von Zahnarztpraxen abgestimmt. 
+            Nicht nur bei Google sondern auch bei AI Ergebnissen. Erhalten Sie mehr Patienten weil ChatGPT und Google Sie weiterempfehlen.
+            Dauerthaft mehr Klienten. Wir unterstützen Sie mit unserer SEO dabei.
           </motion.p>
         </div>
         
