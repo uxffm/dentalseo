@@ -113,11 +113,7 @@ const CaseStudies = () => {
           ))}
         </div>
         
-        <div className="text-center mt-16">
-          <Button variant="outline" className="border-dental-600 text-dental-600 hover:bg-dental-50">
-            Alle Fallstudien ansehen
-          </Button>
-        </div>
+    
       </div>
     </div>
   );
